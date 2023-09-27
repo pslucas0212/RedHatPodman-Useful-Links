@@ -13,3 +13,6 @@
 - [Red Hat Enterprise Linux Container Compatibility Matrix](https://access.redhat.com/support/policy/rhel-container-compatibility)
 - [Red Hat Container Support Policy](https://access.redhat.com/articles/2726611)
 
+### Containers on Windows
+- [How to install and use Podman Desktop on Windows](https://developers.redhat.com/articles/2023/09/27/how-install-and-use-podman-desktop-windows)
+
